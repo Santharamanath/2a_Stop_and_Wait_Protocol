@@ -39,10 +39,11 @@ while True:
 ```
 ## OUTPUT
 ## Client:
-![Screenshot 2024-08-22 110626](https://github.com/user-attachments/assets/56999954-1754-4342-9859-b56300b23da5)
+![360306782-56999954-1754-4342-9859-b56300b23da5](https://github.com/user-attachments/assets/cf24e65e-6e33-4e53-9f1e-852ce415453f)
+
 
 ## Server:
-![Screenshot 2024-08-22 110643](https://github.com/user-attachments/assets/710f4a1a-a835-4a3b-b534-1749f835c1c7)
+![360306819-710f4a1a-a835-4a3b-b534-1749f835c1c7](https://github.com/user-attachments/assets/2e7543fe-9ad9-49a3-bf10-b1fe9ddcd5b3)
 
 
 ## RESULT
